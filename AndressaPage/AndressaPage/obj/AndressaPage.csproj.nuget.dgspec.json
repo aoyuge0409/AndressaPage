@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andressa\\Desktop\\AndressaPage\\AndressaPage\\AndressaPage.csproj": {}
+    "C:\\Users\\Andressa\\Documents\\GitHub\\AndressaPage\\AndressaPage\\AndressaPage\\AndressaPage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andressa\\Desktop\\AndressaPage\\AndressaPage\\AndressaPage.csproj": {
+    "C:\\Users\\Andressa\\Documents\\GitHub\\AndressaPage\\AndressaPage\\AndressaPage\\AndressaPage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andressa\\Desktop\\AndressaPage\\AndressaPage\\AndressaPage.csproj",
+        "projectUniqueName": "C:\\Users\\Andressa\\Documents\\GitHub\\AndressaPage\\AndressaPage\\AndressaPage\\AndressaPage.csproj",
         "projectName": "AndressaPage",
-        "projectPath": "C:\\Users\\Andressa\\Desktop\\AndressaPage\\AndressaPage\\AndressaPage.csproj",
+        "projectPath": "C:\\Users\\Andressa\\Documents\\GitHub\\AndressaPage\\AndressaPage\\AndressaPage\\AndressaPage.csproj",
         "packagesPath": "C:\\Users\\Andressa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andressa\\Desktop\\AndressaPage\\AndressaPage\\obj\\",
+        "outputPath": "C:\\Users\\Andressa\\Documents\\GitHub\\AndressaPage\\AndressaPage\\AndressaPage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andressa\\AppData\\Roaming\\NuGet\\NuGet.Config",
